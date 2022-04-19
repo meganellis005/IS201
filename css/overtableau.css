@@ -1,0 +1,37 @@
+/*Megan Ellis, 4/18/22*/
+.hap{
+    color:#955d65;
+    font-family: garamond, Geneva, Tahoma, 'sans-serif';
+    Font-weight:600;
+    text-align: right;
+    margin:5px;
+    font-size:medium;
+}
+.haptwo{
+    color:#955d65;
+    font-family:'Times New Roman', garamond;
+    font-size:x-large;
+    Font-weight:1200;
+    Text-align:left;
+}
+.body{
+    background-color:rgb(222, 175, 200);
+}
+
+.title{
+    color:#955d65;
+    font-size:large;
+}
+footer{
+    color:#ffa1c2
+}
+.img{
+    align-items: center;
+}
+.new{
+    color:#955d65;
+    font-size: xx-large;
+}
+.invisible{
+    color:white;
+}

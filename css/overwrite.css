@@ -1,0 +1,68 @@
+/*Megan Ellis, 4/18/22*/
+a{
+    color: #40171e;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:700;
+    text-align:center;
+}
+h1{
+    font-family:garamond, 'Times New Roman';
+}
+h3{
+    padding: 15px;
+    border: 1px solid #3d3023;
+}
+.contacttext {
+    text-align: center;
+    color:#40171e;
+}
+.menuitem {
+    font-family:garmond,'Times New Roman';
+    color:white;
+
+}
+.photologo {
+        margin: 20px;
+}
+.contacttwo {
+    color:#40171e;
+    text-align: center;
+    font-size:xx-large;
+}
+.contactthree {
+    text-align: left;
+}
+.bold {
+    font-weight: 700;
+}
+.experienceheading{
+    font-family: garamond, 'Times New Roman';
+    Font-weight: 900;
+    outline-style:dotted;
+    text-align:center;
+}
+.normalheading{
+    font-family: garmond, 'Times New Roman';
+    font-weight: 900;
+}
+.invisible{
+    color:white;
+}
+.hap{
+    color:#955d65;
+    font-family: garamond, Geneva, Tahoma, 'sans-serif';
+    Font-weight:600;
+    text-align: right;
+    margin:5px;
+    font-size:medium;
+}
+.haptwo{
+    color:#955d65;
+    font-family:'Times New Roman', garamond;
+    font-size:x-large;
+    Font-weight:1200;
+    Text-align:left;
+}
+.body{
+    background-color:rgb(222, 175, 200);
+}
